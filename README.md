@@ -17,3 +17,12 @@ Prepare for Week 3 live session and advanced topics.
 
 **Issues Faced:**
 - None
+## Date: 12-09-2026
+**Today's Work:**
+Completed Week 4 Category C practice problems (Two Sum, Stock Profit, Contains Duplicate, Merge Sorted Arrays, Rotate Array) and assignment problems (Product of Array Except Self, Maximum Subarray, 3Sum, Subarray Sum Equals K, Find Minimum in Rotated Sorted Array).
+
+**Next Session Plan:**
+Prepare for Week 5 session.
+
+**Issues Faced:**
+- None
