@@ -35,3 +35,12 @@ Prepare for Week 6 sessions.
 
 **Issues Faced:**
 - None
+## Date: 12-09-2026
+**Today's Work:**
+Completed Week 6 Category C practice problems (Student Placement Record, Hostel Mess Wallet, Course Credit, Library ID Card, Student and College Info) and assignment problems (Library Inventory, Payroll Salary, Employee Profile, Hall Ticket Reference, Employee and Company Info).
+
+**Next Session Plan:**
+Review OOP concepts and prepare for Week 7 topics.
+
+**Issues Faced:**
+- None
