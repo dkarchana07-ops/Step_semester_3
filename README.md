@@ -44,3 +44,12 @@ Review OOP concepts and prepare for Week 7 topics.
 
 **Issues Faced:**
 - None
+## Date: 19-09-2026
+**Today's Work:**
+Completed Week 7 Category C practice problems (Piggy Bank, Quiz Scorecard, Nickname Tag, Locker Code, Attendance Sheet) and assignment problems (Health Bar, Playlist, Password Checker, Traffic Light, Shopping Cart).
+
+**Next Session Plan:**
+Prepare for Week 8 sessions.
+
+**Issues Faced:**
+- None
