@@ -53,3 +53,12 @@ Prepare for Week 8 sessions.
 
 **Issues Faced:**
 - None
+## Date: 26-09-2026
+**Today's Work:**
+Completed Week 8 Category C practice problems (Payment System Fee Calculation, Library Item Due Date Calculator, Delivery Fee Calculator, Examination Question Grader, Public Transport Fare Calculator) and assignment problems (Canteen Billing Counter, Campus Parking Charge Calculator, Hostel Electricity Bill, Festival Bonus Calculator, Streaming Plan Renewal Reminder).
+
+**Next Session Plan:**
+Prepare for Week 9 materials and sessions.
+
+**Issues Faced:**
+- None
